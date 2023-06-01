@@ -1,2 +1,3 @@
-# aluraplus
-Alura Plus - Front End
+# Alura Plus
+Landing page do Alura Plus desenvolvida no curso da Alura.   
+Utilizado HTML e CSS.
